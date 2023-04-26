@@ -1,0 +1,37 @@
+.buttons{
+     
+    position: relative;
+    padding: 10px;
+    justify-items: center;
+    background-color: rgba(245, 239, 186, 0.69);
+    border-radius: 20px;
+    text-align: center;
+    justify-content: center;
+    left:46%;
+    width: 100px;
+}
+.question{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 15px;
+
+}
+.button1{
+    font-family: cursive;
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.button2{
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.FinalOutput{
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
